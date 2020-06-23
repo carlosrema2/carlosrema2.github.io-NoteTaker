@@ -13,7 +13,7 @@ The get method needs to retrieve notes from the server for viewing
 The delete method needs to locate and delete specific notes from the server
 
 ## Example Usage
-![](./sample_usage.gif)
+![](./sample_usage.gift.gif)
 
 
 # Challenges
