@@ -12,8 +12,6 @@ The post method needs to write the note to the JSON file for retrieval
 The get method needs to retrieve notes from the server for viewing
 The delete method needs to locate and delete specific notes from the server
 
-## Example Usage
-![](./sample_usage.gift.gif)
 
 
 # Challenges
