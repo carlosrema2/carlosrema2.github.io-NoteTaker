@@ -1,6 +1,10 @@
 # carlosrema2.github.io-NoteTaker
 Creating a note taker with node.js to a Json file.
 
+## Link to Deployed App
+[Link to deployed app](https://notetakeraql.herokuapp.com/) 
+(Click to open app)
+
 # Approach
 
 As the front end was already created, I needed to look at connecting this to the backend. I broke down the problem into smaller objectives:
